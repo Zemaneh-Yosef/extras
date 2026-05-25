@@ -1,0 +1,37 @@
+[weekday]
+"<b>Shacharit</b> (Hodu)" = "<div>6:55 AM <span class=fs-sm>(Torah Days)</span><br>7:00 AM <span class=fs-sm>(Non-Torah days)</span></div><div>8:15 AM <div class=fs-sm>(Sun-Fri)</div></div><div>9:12 AM <div class=fs-sm>(Sun-Fri)</div></div>"
+"<b>Pelag Mincha & Arvit</b>" = "<span data-autoschedule-type=uCh data-autoschedule-function=getPlagHaminhaHalachaBrurah data-autoschedule-plusorminus=- data-autoschedule-hours=00 data-autoschedule-minutes=10 data-autoschedule-roundinterval=05 data-autoschedule-roundmode=re></span> <span class=fs-sm>(Mincha)</span><br>~<span data-autoschedule-type=uCh data-autoschedule-function=getPlagHaminhaMaamarMordechi data-autoschedule-plusorminus=+ data-autoschedule-hours=00 data-autoschedule-minutes=00 data-autoschedule-roundmode=ex></span> <span class=fs-sm>(Arvit)</span>"
+"<b>Regular Mincha & Arvit</b>" = "7:25 PM <span class=fs-sm>(Korbanot)</span><br>7:30 PM <span class=fs-sm>(Ashre)</span>"
+"<b>2<sup>nd</sup> Arvit</b>" = "9:15 PM"
+
+[shabbat]
+#"<b>Erev Shabbat Tefilot</b> + Learning" = "sh|getShkiya|-00:15ex"
+"<b>1<sup>st</sup> Erev Shabbat Tefilot</b><div class=\"fs-sm\">Minha, Learning, Kabbalat Shabbat & Arvit</div>" = "eSh|getPlagHaminhaHalachaBrurah|-00:15rc05"
+"<b>2<sup>nd</sup> Erev Shabbat Tefilot</b><div class=\"fs-sm\">Minha, Kabbalat Shabbat, Learning & Arvit</div>" = "7:35 PM"
+"fullWidthDescription|<b>Shacharit</b> (+ Kiddush & Learning)|<div class=\"centerLeftgrid\"><div><div data-zfReplace=\"makamot\">Makam </div><div data-zfReplace=\"Haftara\">Haftara: </div></div></div>" = "8:10 AM"
+#"<b>Mincha</b>" = "sh|getShkiya|-00:45rc05"
+"<b>Mincha</b>" = "7:15 PM"
+"<b>Arvit</b>" = "sh|getShkiya|+00:42rc05"
+
+[sedarim_weekday]
+"<b>Early Morning</b>" = "Mon‑Fri, 6:15 AM"
+"<b>Morning</b> (+ Avrechim)" = "Sun‑Fri, 7:45 AM"
+"<b>Night</b> (+ Food)" = "Sun‑Thu, 8:15 PM"
+
+[sedarim_shabbat]
+"<b>Shabbat Morning</b>" = "7:30 AM"
+"<b>Shabbat Afternoon</b>" = "6:00 PM"
+
+[shiur_morning]
+"<b>Kinyan Hamasechta - Megilla</b><br>w/ R' Yonah Nisanov" = "Mon‑Fri,<br>6:15 AM"
+"fullWidthDescription|<b>Mussar & Halacha</b><br>w/ R' Yonah Nisanov|<hr>" = "Mon‑Fri,<br>7:45 AM"
+"<b>Business Halacha</b><br>w/ R' Cohen" = "Sun<br>9:30 AM<br>- 10:30 AM"
+"<b>Morning Kollel</b><br>w/ R' Cohen" = "Mon-Thu,<br>10:00 AM<br>- 12:00 PM"
+"<b>Massechet Berachot -<br>Chapter VI</b><br>w/ R' Ederman" = "Mon-Thu,<br>11:00 AM"
+
+[shiur_night]
+"<b>Halacha</b><br>w/ R' Yonah Nisanov" = "Mon‑Thu,<br>8:15 PM"
+"<b>Kinyan Hamasechta - Chagiga</b><br>w/ R' Yonah Nisanov" = "Mon‑Thu,<br>8:45 PM"
+"<b>Massechet Berachot</b><br>w/ R' Emanuel Aminov" = "Sun-Thu,<br>8:15 PM"
+"<b>Halacha</b><br>w/ R' Aharon Sulimanov" = "Tue‑Thu,<br>8:15 PM"
+"<b>Hilkhot Nidda</b><br>w/ R' Yosef Hekmati" = "Thu,<br>8:15 PM"
