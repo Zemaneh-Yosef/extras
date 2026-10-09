@@ -1,9 +1,9 @@
 [shabbatSchCard]
-"<b>Shir Ha'Shirim</b>" = "eSh|getShkiya|-00:20rc05"
+"<b>Shir Ha'Shirim</b>" = "eSh|getShkiya|-00:35rc05"
 "<b>Hachnasat Shabbat</b><div class='fs-sm'>Minha, Kabbalat Shabbat & Arvit</span>" = "eSh|getShkiya|-00:20rc05"
-"fullWidthDescription|<b>Shacharit</b>|Hot Kiddush" = "8:30 AM <span class='fs-sm'>(Korbanot)</span><br>8:45 AM <span class='fs-sm'>(Hodu)</span>"
+"fullWidthDescription|<b>Shacharit</b> (Korbanot)|Hot Kiddush sponsored By Yisrael Murdakhayev and Eliyahu Shimonov<br>in honor of their families having baby boys" = "8:30 AM"
 "<b>Daf Yomi Shiur</b>" = "sh|getShkiya|-01:55rc05"
-"fullWidthDescription|<b>Mincha</b>, <span class='fs-sm'>followed by Seudat Shelishit|Shiur given by Guest Speaker</span>" = "sh|getShkiya|-00:55rc05"
+"fullWidthDescription|<b>Mincha</b>, <span class='fs-sm'>followed by Seudat Shelishit</span>|Magid Shiur: Rav Yehonatan Peretz<br>Dedicated in memory of Malkiel ben ImaShalom" = "sh|getShkiya|-00:55rc05"
 "<b>Arvit</b>" = "sh|getTzetMelakha|-00:05ex"
 
 [dailWeekdayCard]
