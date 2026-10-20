@@ -1,11 +1,11 @@
 [weekday]
 "<b>Shacharit</b> (Hodu)" = "<div>6:55 AM <span class=fs-sm>(Torah Days)</span><br>7:00 AM <span class=fs-sm>(Non-Torah days)</span></div><div>8:15 AM <div class=fs-sm>(Sun-Fri)</div></div><div>9:12 AM <div class=fs-sm>(Sun-Fri)</div></div>"
-"<b>Regular Mincha (followed by Arvit)</b>" = "5:55 PM <span class=fs-sm>(Korbanot)</span><br> <span class=fs-sm></span>"
 "<b>2<sup>nd</sup> Arvit</b>" = "9:15 PM"
+"<b>Regular Mincha (followed by Arvit)</b>" = "5:55 PM <span class=fs-sm>(Korbanot)</span><br> <span class=fs-sm></span>"
 
 [shabbat]
 #"<b>Erev Shabbat Tefilot</b> + Learning" = "sh|getShkiya|-00:15ex"
-"<b>Erev Shabbat Tefilot</b><div class=\"fs-sm\">Minha, Learning, Kabbalat Shabbat & Arvit</div>" = "5:58 PM"
+"<b>Erev Shabbat Tefilot</b><div class=\"fs-sm\">Minha, Learning, Kabbalat Shabbat & Arvit</div>" = "eSh|getShkiya|-00:15rc05"
 "fullWidthDescription|<b>Shacharit</b> (+ Kiddush & Learning)|<div class=\"centerLeftgrid\"><div><div data-zfReplace=\"makamot\">Makam </div><div data-zfReplace=\"Haftara\">Haftara: </div></div></div>" = "8:30 AM"
 #"<b>Mincha</b>" = "sh|getShkiya|-00:45rc05"
 "<b>Mincha</b>" = "5:20 PM"
