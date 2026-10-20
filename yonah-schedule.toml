@@ -1,6 +1,5 @@
 [weekday]
 "<b>Shacharit</b> (Hodu)" = "<div>6:55 AM <span class=fs-sm>(Torah Days)</span><br>7:00 AM <span class=fs-sm>(Non-Torah days)</span></div><div>8:15 AM <div class=fs-sm>(Sun-Fri)</div></div><div>9:12 AM <div class=fs-sm>(Sun-Fri)</div></div>"
-"<b>Pelag Mincha & Arvit</b>" = "<span data-autoschedule-type=uCh data-autoschedule-function=getPlagHaminhaHalachaBrurah data-autoschedule-plusorminus=- data-autoschedule-hours=00 data-autoschedule-minutes=10 data-autoschedule-roundinterval=05 data-autoschedule-roundmode=re></span> <span class=fs-sm>(Mincha)</span><br>~<span data-autoschedule-type=uCh data-autoschedule-function=getPlagHaminhaMaamarMordechi data-autoschedule-plusorminus=+ data-autoschedule-hours=00 data-autoschedule-minutes=00 data-autoschedule-roundmode=ex></span> <span class=fs-sm>(Arvit)</span>"
 "<b>Regular Mincha & Arvit</b>" = "5:55 PM <span class=fs-sm>(Korbanot)</span><br>5:57 PM <span class=fs-sm>(Ashre)</span>"
 "<b>2<sup>nd</sup> Arvit</b>" = "9:15 PM"
 
