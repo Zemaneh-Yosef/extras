@@ -1,6 +1,6 @@
 [weekday]
 "<b>Shacharit</b> (Hodu)" = "<div>6:55 AM <span class=fs-sm>(Torah Days)</span><br>7:00 AM <span class=fs-sm>(Non-Torah days)</span></div><div>8:15 AM <div class=fs-sm>(Sun-Fri)</div></div><div>9:12 AM <div class=fs-sm>(Sun-Fri)</div></div>"
-"<b>Regular Mincha (followed by Arvit)</b>" = "5:55 PM <span class=fs-sm>(Korbanot)</span><br> <span class=fs-sm></span>"
+"<b>Regular Mincha (followed by Arvit)</b>" = "5:45 PM <span class=fs-sm>(Korbanot)</span><br> <span class=fs-sm></span>"
 "<b>2<sup>nd</sup> Arvit</b>" = "9:15 PM"
 
 [shabbat]
@@ -18,7 +18,7 @@
 
 [sedarim_shabbat]
 "<b>Shabbat Morning</b>" = "7:30 AM"
-"<b>Shabbat Afternoon</b>" = "4:20 PM"
+"<b>Shabbat Afternoon</b>" = "4:10 PM"
 
 [shiur_morning]
 "<b>Kinyan Hamasechta - Megilla</b><br>w/ R' Yonah Nisanov" = "Mon‑Fri,<br>6:15 AM"
