@@ -5,11 +5,11 @@
 
 [shabbat]
 #"<b>Erev Shabbat Tefilot</b> + Learning" = "sh|getShkiya|-00:15ex"
-"<b>Erev Shabbat Tefilot</b><div class=\"fs-sm\">Minha, Learning, Kabbalat Shabbat & Arvit</div>" = "eSh|getShkiya|-00:15rc05"
+"<b>Erev Shabbat Tefilot</b><div class=\"fs-sm\">Minha, Learning, Kabbalat Shabbat & Arvit</div>" = "5:48 PM"
 "fullWidthDescription|<b>Shacharit</b> (+ Kiddush & Learning)|<div class=\"centerLeftgrid\"><div><div data-zfReplace=\"makamot\">Makam </div><div data-zfReplace=\"Haftara\">Haftara: </div></div></div>" = "8:30 AM"
 #"<b>Mincha</b>" = "sh|getShkiya|-00:45rc05"
-"<b>Mincha</b>" = "5:20 PM"
-"<b>Arvit</b>" = "6:55 PM"
+"<b>Mincha</b>" = "5:10 PM"
+"<b>Arvit</b>" = "6:45 PM"
 
 [sedarim_weekday]
 "<b>Early Morning</b>" = "Mon‑Fri, 6:15 AM"
