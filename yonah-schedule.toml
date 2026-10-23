@@ -1,6 +1,6 @@
 [weekday]
 "<b>Shacharit</b> (Hodu)" = "<div>6:55 AM <span class=fs-sm>(Torah Days)</span><br>7:00 AM <span class=fs-sm>(Non-Torah days)</span></div><div>8:15 AM <div class=fs-sm>(Sun-Fri)</div></div><div>9:12 AM <div class=fs-sm>(Sun-Fri)</div></div>"
-"<b>Mincha (followed by Arvit)</b>" = "5:45 PM <span class=fs-sm>(Korbanot)</span><br> <span class=fs-sm></span>"
+"<b>Mincha Korbanot (followed by Arvit)</b>" = "5:45 PM <span class=fs-sm></span><br> <span class=fs-sm></span>"
 "<b>2<sup>nd</sup> Arvit</b>" = "9:15 PM"
 
 [shabbat]
