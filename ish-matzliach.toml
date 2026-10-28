@@ -3,10 +3,9 @@
 "<b>Gemara Shiur</b><div class=\"fs-sm\">Avoda Zara: 2nd Perek</div>" = "Thurs 8:30 PM"
 
 [shabbat]
-"<b>Mincha</b><br>Kabbalat Shabbat and Arvit<hr>" = "6:25 PM"
-"<b>Shabbat Shiur on Nefesh HaChaim</b>" = "8:15 AM"
-"<b>Shaharit</b><br>Kiddush to follow" = "9:00 AM"
-"<b>Shabbat Shiur</b> for Men & Ladies" = "5:15 PM"
-"<b>Mincha</b>" = "Shab. 6:15 PM<br>Sun. 6:30 PM"
-"<b>Arvit</b>" = "7:00 PM"
-"<b>Candle Lighting</b> & Yom Tov Ends" = "7:20 PM"
+"<b>Mincha</b><div class=\"fs-sm\">Kabbalat Shabbat and Arvit</div><hr>" = "eSh|getShkiya|-00:15rc05"
+"<b>Nefesh HaChaim</b>" = "8:15 AM"
+"<b>Shaharit</b><div class=\"fs-sm\">Kiddush to follow</div>" = "9:00 AM"
+"<b>Ladies Halacha Class</b>" = "4:30 PM"
+"<b>Mincha</b><div class=\"fs-sm\">Seudat Shelishit to follow</div>" = "5:20 PM"
+"<b>Arvit</b>" = "6:25 PM"
