@@ -5,11 +5,11 @@
 
 [shabbat]
 #"<b>Erev Shabbat Tefilot</b> + Learning" = "sh|getShkiya|-00:15ex"
-"<b>Erev Shabbat Tefilot</b><div class=\"fs-sm\">Minha, Learning, Kabbalat Shabbat & Arvit</div>" = "5:38 PM"
-"fullWidthDescription|<b>Shacharit</b> (+ Kiddush & Learning)|<div class=\"centerLeftgrid\"><div><div data-zfReplace=\"makamot\">Makam </div><div data-zfReplace=\"Haftara\">Haftara: </div></div></div>" = "8:30 AM"
+"<b>Erev Shabbat Tefilot</b><div class=\"fs-sm\">Minha, Learning, Kabbalat Shabbat & Arvit</div>" = "4:30 PM"
+"fullWidthDescription|<b>Shacharit</b> (+ Kiddush & Learning)|<div class=\"centerLeftgrid\"><div><div data-zfReplace=\"makamot\">Makam </div><div data-zfReplace=\"Haftara\">Haftara: </div></div></div>" = "8:15 AM"
 #"<b>Mincha</b>" = "sh|getShkiya|-00:45rc05"
-"<b>Mincha</b>" = "5:00 PM"
-"<b>Arvit</b>" = "6:35 PM"
+"<b>Mincha</b>" = "3:50 PM"
+"<b>Arvit</b>" = "5:25 PM"
 
 [sedarim_weekday]
 "<b>Early Morning</b>" = "Mon‑Fri, 6:15 AM"
@@ -18,7 +18,7 @@
 
 [sedarim_shabbat]
 "<b>Shabbat Morning</b>" = "7:30 AM"
-"<b>Shabbat Afternoon</b>" = "4:00 PM"
+"<b>Shabbat Afternoon</b>" = "2:50 PM"
 
 [shiur_morning]
 "<b>Kinyan Hamasechta - Megilla</b><br>w/ R' Yonah Nisanov" = "Mon‑Fri,<br>6:15 AM"
