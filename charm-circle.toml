@@ -1,9 +1,9 @@
 [shabbatSchCard]
 "<b>Shir Ha'Shirim</b>" = "eSh|getShkiya|-00:35rc05"
 "<b>Hachnasat Shabbat</b><div class='fs-sm'>Minha, Kabbalat Shabbat & Arvit</span>" = "eSh|getShkiya|-00:20rc05"
-"fullWidthDescription|<b>Shacharit</b> (Korbanot)|Sponsorship Opportunities Open" = "8:30 AM"
+"fullWidthDescription|<b>Shacharit</b> (Korbanot)|Kiddush Sponsorship: Yitzhakbayev family, in honor of the newborn daughter" = "8:15 AM"
 "<b>Daf Yomi Shiur</b>" = "sh|getShkiya|-01:55rc05"
-"fullWidthDescription|<b>Mincha</b>, <span class='fs-sm'>followed by Seudat Shelishit</span>|Magid Shiur: Guest Rabbi" = "sh|getShkiya|-00:55rc05"
+"fullWidthDescription|<b>Mincha</b>, <span class='fs-sm'>followed by Seudat Shelishit with Siyum</span>|Mesayem: Rabbi Avraham Mirsky" = "sh|getShkiya|-00:55rc05"
 "<b>Arvit</b>" = "sh|getTzetMelakha|-00:05ex"
 
 [dailWeekdayCard]
@@ -22,7 +22,7 @@
 "Semichat Chaver<br><i>R' David Rubinov</i>" = "Wed. 8:30 PM"
 
 [weekdaySchCard]
-"preFormatTitle-shacharit1" = "6:30 AM"
+"preFormatTitle-shacharit1" = "Ha'Netz!"
 "<b>Open Bet Midrash</b>" = "7:30 AM"
 "preFormatTitle-shacharit2" = "8:00 AM"
 "<b>Daf Yomi</b>" = "9:00 AM"
