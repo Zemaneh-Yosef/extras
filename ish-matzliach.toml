@@ -3,7 +3,7 @@
 "<b>Night Seder Mon Wed Thurs</b><div class=\"fs-sm\">Masechet Shabbat & Megillah</div>" = "8:00PM"
 
 [shabbat]
-"<b>Mincha</b><div class=\"fs-sm\">Kabbalat Shabbat and Arvit</div><hr>" = "eSh|getShkiya|-00:15rc05"
+"<b>Mincha</b><div class=\"fs-sm\">And Kabbalat Shabbat</div><hr>" = "4:10 PM"
 "<b>Nefesh HaChaim</b>" = "8:15 AM"
 "<b>Shaharit</b><div class=\"fs-sm\">Kiddush to follow</div>" = "9:00 AM"
 "<b>Mincha</b><div class=\"fs-sm\">Seudat Shelishit to follow</div>" = "3:50 pm"
